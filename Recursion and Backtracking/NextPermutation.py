@@ -1,5 +1,6 @@
 #https://leetcode.com/problems/next-permutation/
 
+
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
         b1 = -1
